@@ -1,0 +1,1 @@
+sqlcmd -E -S DESKTOP-QOD7DHI\DIVUS -i script.sql
