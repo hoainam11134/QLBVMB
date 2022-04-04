@@ -1,2 +1,2 @@
 # QLBVMB
-Đồ án CMPM 2020
+Đồ án CNPM 2020
